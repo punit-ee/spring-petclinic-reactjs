@@ -1,5 +1,5 @@
 # React Frontend for Spring Boot PetClinic demo
-[![Build Status](https://codebuild.ap-south-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZ0hGYThNM1I1YUxETDIrSDc2Y09rUiswTXBoOUl2T3AxN1BYc3hua0RPc0ljbWRRYjJ2dDE0eG1nMUtoWWZISHRVY3hka1BDaS9uV0xTT2lZUCt0OE1RPSIsIml2UGFyYW1ldGVyU3BlYyI6ImFpaWhub2UwOERzeWFPVEoiLCJtYXRlcmlhbFNldFNlcmlhbCI6Mn0%3D&branch=master)
+![Build Status](https://codebuild.ap-south-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZ0hGYThNM1I1YUxETDIrSDc2Y09rUiswTXBoOUl2T3AxN1BYc3hua0RPc0ljbWRRYjJ2dDE0eG1nMUtoWWZISHRVY3hka1BDaS9uV0xTT2lZUCt0OE1RPSIsIml2UGFyYW1ldGVyU3BlYyI6ImFpaWhub2UwOERzeWFPVEoiLCJtYXRlcmlhbFNldFNlcmlhbCI6Mn0%3D&branch=master)
 
 This project is a port of the [Spring (Boot) PetClinic demo](https://github.com/spring-projects/spring-petclinic) with a frontend built using [ReactJS](https://facebook.github.io/react/) and
 [TypeScript](https://www.typescriptlang.org/). 
