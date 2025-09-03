@@ -146,4 +146,8 @@ public class Owner extends Person {
             .append("telephone", this.telephone)
             .toString();
     }
+
+    public void smapleCode() {
+        System.out.println("data");
+    }
 }
